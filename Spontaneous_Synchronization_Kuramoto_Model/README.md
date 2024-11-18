@@ -1,4 +1,4 @@
-# Kuramoto Model and Complex Systems Projects
+# Spontaneous Synchronization for the Kuramoto Model
 
 This repository contains a comprehensive exploration of synchronization phenomena in coupled oscillators, using the Kuramoto model as a central framework. Developed during the course *Introduction to Complex Systems* at Utrecht University, this project focuses on numerical simulations and visualizations to uncover the dynamics of collective behavior.
 
