@@ -1,1 +1,7 @@
+## Results
+## Results
 
+### Synchronization Visualization
+The following plot illustrates the evolution of the coherence parameter over time for the Kuramoto model:
+
+![Kuramoto Coherence Over Time](figures/coherence_plot.png)
