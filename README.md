@@ -19,6 +19,7 @@ This repository contains a collection of projects developed as part of the cours
 - Visualizations and results showcasing key findings.
 - Designed to be accessible for learners and researchers interested in complex systems.
 
-- Feel free to explore, fork, and contribute! 😊
 
 ---
+
+Feel free to explore, fork, and contribute! 😊
