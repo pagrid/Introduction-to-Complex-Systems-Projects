@@ -174,7 +174,7 @@ def kuramoto_model_fixed_frequencies(N, T, dt, K, num_runs, freq_mean, freq_std)
 
     plt.xlabel("Time")
     plt.ylabel("Coherence parameter r(t)")
-    plt.title("Time Evolution for Varying Initial Conditions")
+    plt.title("Time Evolution for Varying Phases")
     plt.legend()
     plt.grid()
     plt.show()
