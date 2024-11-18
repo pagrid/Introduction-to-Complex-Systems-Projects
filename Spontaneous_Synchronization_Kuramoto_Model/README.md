@@ -35,15 +35,7 @@ This repository contains a comprehensive exploration of synchronization phenomen
 
 ---
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/pagrid/kuramoto-model-project.git
 
-2. Navigate to individual project folders for specific simulations and descriptions.
-3. Run the Python scripts in a Jupyter Notebook or Python environment to replicate results.
-
----
 ## Acknowledgments
 
 This project was developed as part of the Introduction to Complex Systems course at Utrecht University and focuses on the practical aspects of modeling synchronization.
